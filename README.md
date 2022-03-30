@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @engborges
-- 👀 I’m interested in Geographic Data Science
-- 🌱 I’m currently learning Python programming applied to QGIS for mapping
-- 💞️ I’m looking to collaborate with studies of watersheds in my region
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python programming
 - 📫 Contact: borges.engenha@gmail.com
 
 <!---
